@@ -13,5 +13,5 @@ class Controller extends BaseController
     use DispatchesJobs;
     use ValidatesRequests;
     
-    // test coment
+    //# test coment
 }
